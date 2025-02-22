@@ -14,7 +14,7 @@ pipeline = InferencePipeline.init_with_workflow(
     api_key="vMt0JUmSrXKPCmTa9jOO",
     workspace_name="shiv-vihar",
     workflow_id="detect-count-and-visualize",
-    video_reference=r"C:\Users\Vivek Rawat\Downloads\2406465-uhd_3840_2160_24fps.mp4"
+    video_reference=r"C:\Users\Vivek Rawat\OneDrive\Desktop\WhatsApp Video 2025-02-22 at 07.07.51_efa8e6cd.mp4"
 
 , # Path to video, device id (int, usually 0 for built in webcams), or RTSP stream url
     max_fps=100,
